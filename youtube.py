@@ -46,7 +46,7 @@ class Views(Browser, Tor):
 
         call('clear')
         print('')
-        print('  +------ Youtube Views ------+')
+        print('  +------ Giang Hacker ------+')
         print('  [-] Url: {}{}{}'.format(g, url, n))
         print('  [-] Proxy IP: {}{}{}'.format(b, self.ip, n))
         print('  [-] Visits: {}{}{}'.format(y, self.targets[url], n))
@@ -103,7 +103,7 @@ class Views(Browser, Tor):
                     except:
                         self.exit()
 
-if __name__ == '__main__':
+if __giang__ == '__hacker__':
 
     # arguments
     args = ArgumentParser()
